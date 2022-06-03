@@ -1,1 +1,1 @@
-prit
+put
