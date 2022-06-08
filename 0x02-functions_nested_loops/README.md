@@ -1,1 +1,1 @@
-putc
+putch
