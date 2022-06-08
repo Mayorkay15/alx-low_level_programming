@@ -1,1 +1,1 @@
-6print
+6digit
