@@ -1,1 +1,1 @@
-3digit
+dig
