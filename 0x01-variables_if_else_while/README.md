@@ -1,1 +1,1 @@
-3print
+3-alpha
