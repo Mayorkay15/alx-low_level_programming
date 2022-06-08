@@ -8,13 +8,11 @@
  */
 int add(int a, int b)
 {
-int a = 89;
-int b = 9;
     int n;
 
-    n = (a + b);
+    n = add(89, 9);
 
     printf("%d\n", n);
 
-    return (n);
+    return (int a + int b);
 }
