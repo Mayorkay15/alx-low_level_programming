@@ -8,11 +8,11 @@
  */
 int add(int a, int b)
 {
-int num1 = 89;
-int num2 = 9;
+int a = 89;
+int b = 9;
     int n;
 
-    n = (num1 + num2);
+    n = (a + b);
 
     printf("%d\n", n);
 
