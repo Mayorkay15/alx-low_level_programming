@@ -1,1 +1,1 @@
-alphapp
+amp
