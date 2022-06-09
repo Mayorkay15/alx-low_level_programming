@@ -1,1 +1,1 @@
-isalpha
+signss
