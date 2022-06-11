@@ -1,1 +1,1 @@
-8square
+prime
