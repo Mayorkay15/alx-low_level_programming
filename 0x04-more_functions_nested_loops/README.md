@@ -1,1 +1,1 @@
-7printdiagonal
+8square
