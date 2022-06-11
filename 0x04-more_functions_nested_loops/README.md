@@ -1,1 +1,1 @@
-6printline
+7printdiagonal
