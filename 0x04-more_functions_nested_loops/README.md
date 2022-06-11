@@ -1,1 +1,1 @@
-mulc
+3printn
