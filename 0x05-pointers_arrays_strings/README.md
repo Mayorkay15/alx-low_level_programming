@@ -1,1 +1,1 @@
-printrev
+revstring
