@@ -1,1 +1,1 @@
-putsh
+printarray
