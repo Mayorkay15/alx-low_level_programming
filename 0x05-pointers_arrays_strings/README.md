@@ -1,1 +1,1 @@
-strcpy
+atoi
