@@ -1,1 +1,1 @@
-printarray
+strcpy
