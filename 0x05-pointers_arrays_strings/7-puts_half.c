@@ -1,6 +1,6 @@
 #include "main.h"
 
-void puts_haif(char *str)
+void puts_half(char *str)
 {
 	int i = 0, len = 0, j;
 
