@@ -1,1 +1,1 @@
-stringtoupper
+capstring
