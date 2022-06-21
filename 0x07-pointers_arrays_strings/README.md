@@ -1,1 +1,1 @@
-strstr
+chessboard
