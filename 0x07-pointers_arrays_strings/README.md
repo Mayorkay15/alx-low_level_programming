@@ -1,1 +1,1 @@
-chessboard
+7chessboard
