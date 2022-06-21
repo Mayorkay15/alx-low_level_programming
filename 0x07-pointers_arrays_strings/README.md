@@ -1,1 +1,1 @@
-1memcpy
+strchr
