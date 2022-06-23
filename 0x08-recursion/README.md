@@ -1,1 +1,1 @@
-pow_recursion
+sqrt_recurtion
