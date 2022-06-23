@@ -1,1 +1,1 @@
-sqrt_recurtion
+prime_number
