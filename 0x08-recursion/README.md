@@ -1,1 +1,1 @@
-factorial1
+fact
