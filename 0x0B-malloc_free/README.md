@@ -1,1 +1,1 @@
-alloc_grid
+free_grid
