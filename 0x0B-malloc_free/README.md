@@ -1,1 +1,1 @@
-strdup
+str_concat
