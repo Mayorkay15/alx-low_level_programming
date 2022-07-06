@@ -1,1 +1,1 @@
-main.c
+function_like_macro
