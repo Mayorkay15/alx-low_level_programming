@@ -1,1 +1,1 @@
-1-init_dog
+print_dog
