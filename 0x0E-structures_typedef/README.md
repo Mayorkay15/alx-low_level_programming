@@ -1,1 +1,1 @@
-print_dog
+free_dog
