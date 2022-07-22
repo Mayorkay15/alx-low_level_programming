@@ -1,6 +1,6 @@
 #include "main.h"
 
-unsigned int binary_to_unit(const char *b)
+unsigned int binary_to_uint(const char *b)
 {
 	int i;
 	unsigned int num;
